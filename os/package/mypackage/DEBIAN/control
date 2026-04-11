@@ -1,0 +1,7 @@
+Package: mypackage
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Stepan Matveev <mset321@gmail.com>
+Description: My test app
